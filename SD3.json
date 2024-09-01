@@ -1,0 +1,164 @@
+[
+    {
+        "statement": "It’s not wise to tell your secrets.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I like to use clever manipulation to get my way.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "Whatever it takes, you must get the important people on your side.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "Avoid direct conflict with others because they may be useful in the future.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "It’s wise to keep track of information that you can use against people later.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "You should wait for the right time to get back at people.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "There are things you should hide from other people to preserve your reputation.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "Make sure your plans benefit yourself, not others.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "Most people can be manipulated.",
+        "trait": "Machiavellianism",
+        "reversed": false
+    },
+
+    {
+        "statement": "People see me as a natural leader.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I hate being the center of attention.",
+        "trait": "Narcissism",
+        "reversed": true
+    },
+
+    {
+        "statement": "Many group activities tend to be dull without me.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I know that I am special because everyone keeps telling me so.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I like to get acquainted with important people.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I feel embarrassed if someone compliments me.",
+        "trait": "Narcissism",
+        "reversed": true
+    },
+
+    {
+        "statement": "I have been compared to famous people.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I am an average person.",
+        "trait": "Narcissism",
+        "reversed": true
+    },
+
+    {
+        "statement": "I insist on getting the respect I deserve.",
+        "trait": "Narcissism",
+        "reversed": false
+    },
+
+    {
+        "statement": "I like to get revenge on authorities.",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "I avoid dangerous situations.",
+        "trait": "Psychopathy",
+        "reversed": true
+    },
+
+    {
+        "statement": "Payback needs to be quick and nasty.",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "People often say I’m out of control.",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "It’s true that I can be mean to others",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "People who mess with me always regret it.",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "I have never gotten into trouble with the law.",
+        "trait": "Psychopathy",
+        "reversed": true
+    },
+
+    {
+        "statement": "I enjoy having sex with people I hardly know.",
+        "trait": "Psychopathy",
+        "reversed": false
+    },
+
+    {
+        "statement": "I’ll say anything to get what I want.",
+        "trait": "Psychopathy",
+        "reversed": false
+    }
+
+]

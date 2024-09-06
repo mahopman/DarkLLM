@@ -3,6 +3,7 @@ import os
 import replicate
 import openai
 import anthropic
+import time
 
 load_dotenv()
 
@@ -37,4 +38,5 @@ class Claude():
 
     def get_response(self, prompt):
         response = self.client.messages.create(model=self.model_name, messages=[{"role": "user", "content": prompt}], max_tokens=self.max_tokens, **self.params)
+        time.sleep(1)
         return response.content[0].text

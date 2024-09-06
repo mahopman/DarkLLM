@@ -1,0 +1,1 @@
+print([3,2,4,None,1].mean())
